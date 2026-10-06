@@ -1,0 +1,29 @@
+# Noctua NF-A12x25 PWM - Technical Specifications
+
+## 1. Dimensions
+* **Width x Height x Depth:** 120 x 120 x 25 mm
+* **Mounting hole spacing:** 105 x 105 mm
+
+## 2. Performance
+* **Maximum rotational speed:** 2000 RPM (1700 RPM with the included L.N.A. adapter)
+* **Maximum airflow:** 102.1 m³/h
+* **Maximum static pressure:** 2.34 mm H₂O
+* **Maximum noise level:** 22.6 dB(A)
+* **Bearing type:** SSO2 (Self-stabilizing oil-pressure bearing)
+* **Impeller material:** Sterrox® LCP (Liquid-crystal polymer)
+
+## 3. Estimated power consumption
+* **Typical voltage:** 12 V
+* **Maximum amperage:** 0.1 A (up to 0.14 A peak during startup)
+* **Estimated power consumption:** 1.2 W (up to a maximum of 1.68 W at full load)
+* **Connector:** 4-pin PWM
+
+## 4. Applications
+Thanks to its exceptionally optimized P/Q (Pressure/Airflow) curve in the mid-range, this industrial-grade fan is ideal for:
+* **Liquid cooling radiators (AIO / Custom loops):** Its high static pressure effectively drives air through dense radiator fins without losing airflow. * **CPU Air Coolers:** Perfect for "push" or "push-pull" configurations, drastically reducing noise compared to stock fans.
+* **Chassis Ventilation (Case Cooling):** Excellent performance as an intake fan, as it overcomes the high airflow resistance created by dust filters or mesh front panels. ## 5. Real-world examples
+Below are three examples of real-world applications documented online:
+
+1. **Use with restrictive radiators (e.g., Arctic Liquid Freezer II 240):** Various hardware reviews demonstrate the use of the NF-A12x25 alongside the included NA-AVG1 anti-vibration silicone gasket. This gasket seals the gap between the fan frame and the radiator, channeling all static pressure through the fins without lateral leakage.
+2. **Use as a chassis fan behind filters (e.g., DeepCool CH510 Mesh):** Acoustic tests prove its effectiveness as a primary intake fan. Thanks to its aerodynamic design, it maintains steady airflow into the system while keeping noise levels very low (around 31 dB(A) at 1100 RPM).
+3. **Replacement on tower-style coolers (e.g., Noctua NH-U12A / DeepCool AK400):** It is frequently documented as a replacement for standard fans, taking advantage of the minimal 0.5 mm clearance between the blade tip and the frame (made possible by the Sterrox material). This prevents turbulence and improves direct heat dissipation across the processor's aluminum fin stack.
